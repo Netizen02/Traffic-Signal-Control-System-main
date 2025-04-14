@@ -11,11 +11,8 @@
 - **Pygame**
 - **Keras**
 
-## Authors
-
-- [@JJsupercoder](https://github.com/JJsupercoder)
-- [@Yashdeshapp01](https://github.com/Yashdeshapp01)
-- [@Netizen02](https://github.com/Netizen02)
+## Screenshot
+![Traffic Simulation](./Old Code for Reference/Screenshot 2025-04-14 155153.png)
 
 ## Documentation
 
