@@ -12,7 +12,7 @@
 - **Keras**
 
 ## Screenshot
-![Traffic Simulation](./Old Code for Reference/Screenshot 2025-04-14 155153.png)
+![Traffic Simulation](./Old%20Code%20for%20Reference/Screenshot%202025-04-14%20155153.png)
 
 ## Documentation
 
